@@ -1,3 +1,10 @@
+/* Credits */
+.page-wrapper>.credits {
+  background-color: hsl(201, 11%, 96%);
+  font-size: 0.8em;
+  padding: 10px;
+}
+
 /* Common */
 body {
   width: 100%;
@@ -339,7 +346,7 @@ p {
     margin-top: 10%;
   }
 
-  .section-1-wrapper>.features-wrapper img{
+  .section-1-wrapper>.features-wrapper img {
     width: 70%;
     object-fit: contain;
     margin-bottom: 10%;
@@ -376,7 +383,6 @@ p {
     display: inline-flex;
     flex-direction: row;
     justify-content: space-between;
-
   }
 
   /* Footer */
